@@ -427,6 +427,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":945,
+         "image":"tilesets\/Campfire36.png",
+         "imageheight":32,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Campfire36",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
