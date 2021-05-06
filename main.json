@@ -38,6 +38,12 @@
          "id":8,
          "name":"Exit_MdM",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
