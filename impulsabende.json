@@ -39,7 +39,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -63,7 +63,7 @@
          "name":"Top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
          "name":"Objekte",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -87,7 +87,7 @@
          "name":"Objekte_Ebene2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -99,7 +99,7 @@
          "name":"Tischobjekte",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -111,7 +111,7 @@
          "name":"Feuer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
