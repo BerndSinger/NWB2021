@@ -50,7 +50,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -68,7 +68,7 @@
                  "value":"impulsabende.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -86,7 +86,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -98,7 +98,7 @@
          "name":"Boden1 (Gras)",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -110,7 +110,7 @@
          "name":"Boden2 (Gras-Rand, Labyrinth, Beet, Zaun, Geb\u00e4udepodest, Sandkasten, B\u00e4nke, B\u00fcsche, Lagerfeuerplatz, Schild, ZIEL, NWB_Logo)",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
