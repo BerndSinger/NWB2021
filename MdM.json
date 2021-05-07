@@ -94,6 +94,10 @@
          "tilecount":640,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "firstgid":3714,
+         "source":"..\/..\/..\/..\/NextCloud\/Nachhaltigkeitswochen BaW\u00fc 2021\/AG Technik\/Virtuelle Welt\/Karten\/Markt der Moeglichkeiten\/Room_Builder_32x32.tsx"
         }],
  "tilewidth":32,
  "type":"map",
