@@ -101,7 +101,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Markt_der_Moeglichkeiten.json"
+                 "value":"MdM.json"
                 }],
          "type":"tilelayer",
          "visible":true,
